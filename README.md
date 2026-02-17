@@ -131,3 +131,5 @@ This platform was developed as a **commercial SaaS product** targeting the Sri L
 
 
 ---
+
+> Built for modernize education administration in Sri Lanka.
